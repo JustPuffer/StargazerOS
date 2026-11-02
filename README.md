@@ -1,2 +1,2 @@
-# PaniniOS
-# PaniniOS
+# StargazerOS
+# StargazerOS
